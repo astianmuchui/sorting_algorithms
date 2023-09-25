@@ -1,10 +1,10 @@
-# sorting algorithms
-This repository involves a few sorting algorithms implemented in C
+# Sorting Algorithms
+This repository involves a few sorting algorithms implemented in C as tasked at ```alx holberton```
 
 ## Algorithms implemented
 
 ```Bubble sort```
-```Merge sort```
+```Insertion sort```
 ```Selection sort```
 ```Quick sort```
 
