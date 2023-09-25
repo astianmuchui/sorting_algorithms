@@ -1,4 +1,4 @@
-# sorting_algorithms
+# sorting algorithms
 This repository involves a few sorting algorithms implemented in C
 
 ## Algorithms implemented
