@@ -1,5 +1,5 @@
 #include "sort.h"
-<<<<<<< HEAD
+
 /**
  * shell_sort - function that sorts an array
  * of integers in ascending order using the
@@ -44,7 +44,6 @@ void _ssort(int *a, int size, int n)
 		}
 	}
 	print_array(a, size);
-=======
 
 /**
 * shell_sort - sorts an array of integers in ascending order
@@ -84,5 +83,4 @@ void shell_sort(int *array, size_t size)
 		gap = (gap - 1) / 3;
 		print_array(array, size);
 	}
->>>>>>> 5aeefe300ad68230950ee06a4a684fd0490613a2
 }
