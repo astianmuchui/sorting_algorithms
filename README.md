@@ -7,6 +7,9 @@ This repository involves a few sorting algorithms implemented in C as tasked at 
 ```Insertion sort```
 ```Selection sort```
 ```Quick sort```
+```Shell sort```
+```Cocktail sort```
+
 
 ## Authors
 
